@@ -1,0 +1,119 @@
+Crimes in India Analysis
+Crime in India has been recorded since the British Raj, with comprehensive statistics now compiled annually by the National Crime Records Bureau(NCRB), under the Ministry of Home Affairs(MHA).
+
+As of 2018, a total of 50,74,634 cognizable crimes comprising 31,32,954 Indian Penal Code (IPC) crimes and 19,41,680 Special & Local Laws (SLL) crimes were registered nationwide. Despite showing a 1.3% annual increase in the registration of cases (50,07,044 cases), the crime rate per 100,000 population has slightly come down from 388.6 in 2017 to 383.5 in 2018
+
+This notebook comprises of various facts and infographics about different types of crimes that have taken place in India since the past 18 years (2001-2018)
+
+stop-the-crime.jpg
+
+Table of Contents
+Rape cases
+Incest rape cases reported
+State/UT wise incest rape cases reported
+Distribution of age groups of victims
+Human Rights violation by the Police
+State/UT wise cases registered under Human Rights violation
+Cases registered against Police under Human Rights violation
+Types of Human Rights violations
+Cases Registed under Human Rights Violation - Fake encounter killings
+Cases Registed under Human Rights Violation - False implication
+Policemen Chargesheeted vs Policemen Convicted
+Auto Theft cases
+State/UT wise number of vehicles stolen from 2001 to 2010
+Proportion of vehicles stolen, traced and recovered
+Year wise vehicles stolen
+Types of vehicles stolen
+Top 10 States/UT with highest number of motor cycles stolen
+Property Theft cases
+State/UT wise number of property stolen cases from 2001 to 2010
+Types of property stolen cases
+Property stolen vs recovered
+Year-wise Value of Property Stolen and Recovered
+Rape cases 
+Rape is the fourth most common crime against women in India. Laws against rape come under the Indian Penal Code 376. Incest rape cases are registered under the condition where the offender is known to the victim.
+
+Incest rape cases reported from 2001 to 2010 
+In 2005, around 750 cases were reported which is the highest number of that decade.
+The year 2010 recorded the lowest number of cases i.e 288.
+State/UT wise incest rape cases reported from 2001 to 2010 
+
+Top 3 states having highest number of cases - Madhya Pradhesh, Chhatisgarh, Rajasthan
+Top 3 states having lowest number of cases - Tripura, Manipur, Goa
+Distribution of age groups of victims 
+Women between the age group of 18-30 have been most affected
+Women between the age group above 50 have been least affected
+Human Rights violation by the Police 
+Human Rights in India is an issue complicated by the country's large size and population, widespread poverty, lack of proper education, as well as its diverse culture, despite its status as the world's largest sovereign, secular, democratic republic.
+
+State/UT wise cases registered under Human Rights violation from 2001 to 2010 
+
+Top 3 states with highest number of cases against police Chhatisgrah, Assam, Gujarat
+Top 3 states with lowest number of cases against police Manipur, Uttarakhand, Goa
+Cases registered against Police under Human Rights violations from 2001 to 2010 
+In 2008, highest number of cases were recorded - 506
+The year 2006 recorded least number of cases i.e 58
+Types of Human Rights violations 
+Cases have been registered under the following heads:
+1) Torture
+
+2) Extortion
+
+3) Disappearance of Persons
+
+4) Atrocities on SC/ST
+
+5) Illegal detention/arrests
+
+6) Indignity to Women
+
+7) Fake encounter killings
+
+8) False implication
+
+9) Violation against terrorists/extremists
+
+10) Failure in taking action
+
+11) Other violations
+
+Cases Registed under Human Rights Violation - Fake encounter killings 
+16.0
+Cases Registed under Human Rights Violation - False implication 
+29.0
+Policemen Chargesheeted vs Policemen Convicted 
+In 2009, 69.87% of policemen have been convicted - highest of the decade.
+For about three consecutive years, 2005, 2006, 2007 there has been no conviction of policemen.
+Auto Theft cases 
+State/UT wise number of vehicles stolen from 2001 to 2010 
+
+Top 3 states with highest number of auto theft cases Maharashtra, Uttar Pradesh,Gujarat
+Top 3 states with lowest number of auto theft cases Sikkim, Mizoram, Tripura
+Proportion of vehicles stolen, traced and recovered 
+Out of 2,467,182 vehicles stolen, 21.2% have been recovered.
+Year wise vehicles stolen 
+There seems to be linear growth of vehicles stolen.
+At this rate by the end of 2020, there will be approxiately 460k vehicles stolen.
+Types of vehicles stolen 
+Top 10 States/UT with highest number of motor cycles stolen 
+Maharashtra has the most cases of vehicles stolen - over 103k
+Property theft cases 
+State/UT wise number of property stolen cases from 2001 to 2010 
+
+Types of property stolen cases 
+Cases have been registered under the following heads:
+
+1) Dacoity
+
+2) Criminal Breach of Trust
+
+3) Robbery
+
+4) Burglary
+
+5) Theft
+
+6) Others
+
+Property stolen vs recovered 
+Year-wise Value of Property Stolen and Recovered 
